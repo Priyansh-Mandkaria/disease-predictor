@@ -89,13 +89,4 @@ For questions or suggestions, please reach out to us via:
 
 ---
 
-## Screenshots (Optional)
-Include screenshots of your application here to showcase its UI and functionality.
-
----
-
-## Demo (Optional)
-If a live demo or video walkthrough is available, provide the link here.
-
-```markdown
-[Live Demo](https://example.com)
+Soon you can see Demo Videos & Images....
